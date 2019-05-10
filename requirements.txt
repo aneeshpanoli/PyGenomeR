@@ -1,5 +1,3 @@
-# pip install -r requirements.text
-
 seaborn==0.9.0
 rpy2==2.9.5
 pandas==0.23
