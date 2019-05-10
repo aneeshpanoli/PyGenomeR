@@ -1,2 +1,2 @@
 # PyGenomeR
-Exploratory genomic data analysis with Python
+Exploratory genomics data analysis with Python
